@@ -16,7 +16,8 @@ class AracKiralamaSistemi:
 
 
 
-
+def deneme():
+    print("mesaj")
 
 
 
